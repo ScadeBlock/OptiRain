@@ -20,7 +20,7 @@
 
 # ⚡ Performance
 + Auto-Hide all Rainmeter Skin when not needed
-> Improves **~ 90%** Rainmeter Performance - `CPU` and `GPU` percentage usage
+> Improves **`~ 90%`** Rainmeter Performance - `CPU` and `GPU` percentage usage
 + You can change UPTIME.txt in application folder
 > Higher = (+) Performance (-) Smooth\
 > Lower  = (-) Performance (+) Smooth\
