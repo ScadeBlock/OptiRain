@@ -2,7 +2,7 @@
 > ⚡ `OptiRain` - Provide the best optimization for Rainmeter
 
 # ✨ Lastest Version 
-> Version : `OptiRain 1.99a`
+> Version : `OptiRain 1.99c`
 + Support from **`Windows 7 ~ Windows 11`** (**32bit** & **64bit**)
 + Very Lightweight ~ **11MB**
 + Use `Memoization`, `Multi-Thread` optimization for **best** performance
