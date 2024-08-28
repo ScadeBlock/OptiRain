@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 28 Aug 2024 12:39:45 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 28 Aug 2024 12:39:44 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[🌧️ OptiRain 🌧️]]></title><description><![CDATA[ 
+ <br><br>
+⚡ OptiRain - Provide the best optimization for Rainmeter
+<br><br>
+Version : OptiRain 1.99c
+<br>
+<br>Support from Windows 7 ~ Windows 11 (32bit &amp; 64bit)
+<br>Very Lightweight ~ 11MB
+<br>Use Memoization, Multi-Thread optimization for best performance
+<br><br>
+<br>Download the latest version from <a data-tooltip-position="top" aria-label="https://github.com/ScadeBlock/OptiRain/releases" rel="noopener" class="external-link" href="https://github.com/ScadeBlock/OptiRain/releases" target="_blank">Github</a> 
+<br><br>
+✔ Process run at very low CPU percentage (&lt; 1%) and RAM (&lt; 20MB Ram) <br>
+✔ Works Perfectly with Rainmeter 
+<br><br><br>
+<br>First Right-click to Rainmeter Icon tray
+<br>Choose Manage &amp; Go to Game Mode Tab
+<br>Check Full-screen games and Addition process list
+<br>On the Text box below , type OptiList.exe
+<br>Restart RainMeter and run OptiRain process
+<br>You can also add OptiRain to startup if you want!
+<br><br>
+<br>Auto-Hide all Rainmeter Skin when not needed
+
+Improves ~ 90% Rainmeter Performance - CPU and GPU percentage usage
+
+
+<br>You can change UPTIME.txt in application folder
+
+Higher = (+) Performance (-) Smooth<br>
+Lower  = (-) Performance (+) Smooth<br>
+1 ~ 3 is highly recommend
+
+
+<br><br>Made with ❤️ by ScadeBlock]]></description><link>OptiRain.html</link><guid isPermaLink="false">OptiRain.md</guid><pubDate>Wed, 28 Aug 2024 12:24:06 GMT</pubDate></item></channel></rss>
